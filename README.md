@@ -21,7 +21,7 @@ Open `shows.js` in GitHub, click the pencil icon to edit, and add real confirmed
 - Styles/colors: `style.css`
 - Logo: `assets/blended-whiskey-logo.jpg`
 - Band-member poster: `assets/band-members.jpg`
-- Facebook: currently uses the shared Facebook URL provided in the conversation; if a permanent band-page URL is available, replace every instance of `https://www.facebook.com/share/18dgxqQFx3/` in `index.html` and `script.js`.
+- Facebook: all Facebook links use the Blended Whiskey band-page share link provided by the user; if a verified permanent/vanity band-page URL is available, replace every instance of `https://www.facebook.com/share/18dgxqQFx3/` in `index.html` and `script.js`.
 
 ## Notes
 - Band roles and names are presented as currently understood; adjust anything that's incorrect.
